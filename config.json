@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvncrypt",
+        "uuid": 23672456,
+        "checksum": "6kfu8r"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
